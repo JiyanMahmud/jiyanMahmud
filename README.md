@@ -10,7 +10,8 @@ Explainable AI · Unsupervised Anomaly Detection · Graph-Based Learning · Lang
 ## Research Interests
 
 I work on **explainable AI (XAI)** and **unsupervised anomaly detection**, with a focus on:
-- Novel evaluation frameworks for unsupervised models (see [ASOI metric](https://github.com/jiyanMahmud/asoi-metric))
+- Novel evaluation frameworks for unsupervised models (see [ASOI metric](https://github.com/jiyanMahmud/ASOI_ASI
+))
 - Model-agnostic and model-specific explanation methods: SHAP, LIME, WindowLIME
 - Graph-based anomaly propagation and root cause attribution
 - Language-based anomaly reasoning and log modeling
