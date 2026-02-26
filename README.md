@@ -26,7 +26,7 @@ I am Principal Investigator on two industry-funded projects with **Deutsche Tele
 | Repository | Description |
 |------------|-------------|
 | [asoi-metric](https://github.com/jiyanMahmud/ASOI_ASI) | ASOI: a novel internal evaluation metric for unsupervised anomaly detection · *Complex & Intelligent Systems, Springer 2025* |
-| [Glade]: (https://github.com/jiyanMahmud/Glade)| Glade: A Global Anomaly-Dependency Explainer via Adaptive Personalized Propagation
+| [Glade](https://github.com/jiyanMahmud/Glade)| Glade: A Global Anomaly-Dependency Explainer via Adaptive Personalized Propagation
 | [xai-anomaly-dashboard](https://github.com/jiyanMahmud/xai-anomaly-dashboard) | Real-time anomaly detection dashboard with SHAP-based explanations · anonymized demo |
 
 ---
