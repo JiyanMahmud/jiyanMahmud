@@ -3,7 +3,7 @@
 **PhD Candidate in Data Science · Eötvös Loránd University (ELTE) Data science and Engineering department (DSD), Budapest**  
 Explainable AI · Unsupervised Anomaly Detection · Graph-Based Learning · Language-Based Reasoning
 
-📧 jiyan@inf.elte.hu · 📄 [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) · 🌐 [Research Website](https://jiyanMahmud.github.io)
+📧 jiyan@inf.elte.hu · 📄 [Google Scholar](https://scholar.google.com/citations?user=pP-ROH0AAAAJ&hl=en&oi=ao). 🌐 [Research Website](https://jiyanMahmud.github.io)
 
 ---
 
