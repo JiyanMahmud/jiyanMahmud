@@ -3,22 +3,20 @@
 **PhD Candidate in Data Science · Eötvös Loránd University (ELTE) Data science and Engineering department (DSD), Budapest**  
 Explainable AI · Unsupervised Anomaly Detection · Graph-Based Learning · Language-Based Reasoning
 
-📧 jiyan@inf.elte.hu · 📄 [Google Scholar](https://scholar.google.com/citations?user=pP-ROH0AAAAJ&hl=en&oi=ao). 🌐 [Research Website](https://jiyanMahmud.github.io)
-
+📧 jiyan@inf.elte.hu · 📄 [Google Scholar](https://scholar.google.com/citations?user=pP-ROH0AAAAJ&hl=en&oi=ao) · 🌐 [Research Website](https://jiyanMahmud.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jiyan-mahmud/)
 ---
 
 ## Research Interests
 
-I work on **explainable AI (XAI)** and **unsupervised anomaly detection**, with a focus on:
+I work on **explainable** and **unsupervised anomaly detection**, with a focus on:
 - Novel evaluation frameworks for unsupervised models (see [ASOI metric](https://github.com/jiyanMahmud/ASOI_ASI
 ))
-- Model-agnostic and model-specific explanation methods: SHAP, LIME, WindowLIME
+- Model-agnostic, model-specific and selfexplanable explanation methods
 - Graph-based anomaly propagation and root cause attribution
 - Language-based anomaly reasoning and log modeling
 - User-facing explainability interfaces and real-time XAI dashboards
 
-I am Principal Investigator on two industry-funded projects with **Deutsche Telekom Innovation Laboratories**, and hold an **EKOP Research Scholarship** from ELTE for independent fundamental research.
-
+I am working on multiple industry-funded projects with **Deutsche Telekom Innovation Laboratories** with a collaboration with ELTE university-Budapest-Hungary 
 ---
 
 ## Featured Repositories
@@ -26,7 +24,7 @@ I am Principal Investigator on two industry-funded projects with **Deutsche Tele
 | Repository | Description |
 |------------|-------------|
 | [asoi-metric](https://github.com/jiyanMahmud/ASOI_ASI) | ASOI: a novel internal evaluation metric for unsupervised anomaly detection · *Complex & Intelligent Systems, Springer 2025* |
-| [Glade](https://github.com/jiyanMahmud/Glade)| Glade: A Global Anomaly-Dependency Explainer via Adaptive Personalized Propagation
+| [Glade](https://github.com/jiyanMahmud/Glade)| Glade: A Global Anomaly-Dependency Explainer via Adaptive Personalized Propagation(Under review)
 |Stundet Projects|
 | [xai-anomaly-dashboard](https://github.com/T4-XICS/OST-SM-Project) | Real-time anomaly detection dashboard with SHAP-based explanations · Student Group Project |
 
